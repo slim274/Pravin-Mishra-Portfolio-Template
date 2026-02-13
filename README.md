@@ -20,8 +20,8 @@ This repository contains a clean, professional-looking **static portfolio websit
 A portfolio-style website hosted on:
 - **Ubuntu VM**
 - **Nginx**
-- Accessible via: `http://<public-ip>`
-
+- Accessible via: `
+http://107.23.145.248/
 ---
 
 ## Footer
@@ -41,7 +41,7 @@ Original:
 Add this line (example):
 
 ```html
-<p><strong>Deployed by:</strong> DMI Cohort 2 | Rahul Sharma | Group 4 | Week 1 | 16-01-2026</p>
+<p><strong>Deployed by:</strong> DMI Cohort 2 | Ibrahim Ahmed Abiodun | Group 2 | Week 4 | 13-02-2026</p>
 ```
 
 ✅ This proof must be visible in your browser screenshot submission.
