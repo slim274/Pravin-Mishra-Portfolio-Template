@@ -44,4 +44,4 @@ Add this line (example):
 <p><strong>Deployed by:</strong> DMI Cohort 2 | Ibrahim Ahmed Abiodun | Group 2 | Week 4 | 13-02-2026</p>
 ```
 
-✅ This proof must be visible in your browser screenshot submission.
+✅ This proof must be visible in your browser screenshot submission.# jira-project
