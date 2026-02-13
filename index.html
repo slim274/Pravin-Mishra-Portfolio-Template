@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>foo
 <html lang="en">
 
 <head>
@@ -69,12 +69,18 @@
       <!-- Bottom -->
       <div class="footer-bottom">
         <p>
-          Pravin Mishra Portfolio v1.0 — Deployed on 13 Feb 2026 — By Ibrahim Ahmed Abiodun
+          Pravin Mishra Portfolio v1.0 — <span id="deployDate"></span> — By Ibrahim Ahmed Abiodun
         </p>
       </div>
 
     </div>
   </footer>
+<script>
+  // Set deploy date dynamically in DD Mon YYYY format
+  const deployDate = new Date();
+  const options = { day: '2-digit', month: 'short', year: 'numeric' };
+  document.getElementById('deployDate').textContent = deployDate.toLocaleDateString('en-GB', options);
+</script>
 
 </body>
 

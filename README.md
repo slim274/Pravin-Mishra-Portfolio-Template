@@ -24,6 +24,11 @@ A portfolio-style website hosted on:
 
 ---
 
+## Footer
+
+The portfolio footer displays version, deploy date, and author:
+
+
 ## Mandatory Ownership Proof (DMI Rule)
 Before you deploy, you MUST edit the footer and add your details:
 
